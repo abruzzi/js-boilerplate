@@ -1,0 +1,21 @@
+{
+  "name": "js-boilerplate",
+  "version": "0.0.1",
+  "description": "Boilerplate project for modern JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Juntao Qiu",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:abruzzi/js-boilerplate.git"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "karma": "~0.12.31",
+    "jasmine-core": "~2.1.3",
+    "karma-jasmine": "~0.3.4",
+    "karma-chrome-launcher": "~0.1.7"
+  }
+}
